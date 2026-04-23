@@ -64,7 +64,7 @@ export async function createInvoice (prevState : State, formData : FormData) {
     }
 
     revalidatePath('/dashboard/invoices');
-    redirect('/dashboardI/invoices');
+    redirect('/dashboard/invoices');
 }
 
 const UpdateInvoice = formSchema.omit({id: true, date: true});
