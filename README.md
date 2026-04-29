@@ -40,6 +40,7 @@ O **Acme Dashboard** é uma plataforma de gestão financeira moderna projetada p
 > https://next-app-router-gz952x1co-bru303-9783s-projects.vercel.app
 
 Logar com email: user@nextmail.com
+
 senha: 123456
 
 ---
